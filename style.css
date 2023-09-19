@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+body {
+    background-color: darkgray;
+}
+h1 {
+    background-color: gray;  
+}
+
+body {
+    font-family: sans-serif;
+}
+
+nav ul {
+text-align: center;
+}
+
+
+ul li{
+    display: inline;
+    margin-right: 20px;
+}
