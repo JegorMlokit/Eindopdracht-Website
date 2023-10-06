@@ -92,5 +92,12 @@ a {
     background-color: #1c1c1c;
     color: #EDEADE;
     border-radius: 10px;
+    
  }
+
+ .text:hover{
+    transform: scale(1.1);
+
+ }
+ 
 
