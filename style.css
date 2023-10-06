@@ -1,22 +1,24 @@
 * {
     padding: 0;
-    margin: 0;
+    margin: 20px;
     box-sizing: border-box;
 }
 
-
 body {
-    background-color: darkgray;
+    background-image: url(img/Achtergrond.avif);
+
 }
+
 h1 {
-    background-color: gray;  
+    background-color: #1c1c1c;  
+    color: 	#EDEADE
 }
 
 body {
     font-family: sans-serif;
 }
 
-nav ul {
+ul {
 text-align: center;
 }
 
@@ -25,3 +27,70 @@ ul li{
     display: inline;
     margin-right: 20px;
 }
+h1 { 
+    text-align: center;
+    margin: 25px;
+    border-radius: 5px;
+}
+
+
+.collage {
+    text-align: center;
+    margin: 20px;
+
+}
+
+h2{
+    text-align: center;
+    margin: 25px;
+}
+
+p{
+    text-align: center;
+}
+
+
+img{
+    justify-content: left;
+    margin: 150px;
+    margin-top: 30vh;
+    max-width: 30vw;
+}
+
+a {
+    color: #1c1c1c;
+}
+
+.container {
+    display: flex; 
+    align-items: center; 
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #1c1c1c;
+    color: #EDEADE;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+ .button:hover {
+    background-color: #383838;
+    transform: scale(1.1);
+    color: #00CED1
+    
+ }
+ .button:focus{
+    outline: 2px solid #EDEADE;
+ }
+
+ .text{
+    background-color: #1c1c1c;
+    color: #EDEADE;
+    border-radius: 10px;
+ }
+
