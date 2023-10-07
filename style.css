@@ -36,7 +36,7 @@ h1 {
 
 .collage {
     text-align: center;
-    margin: 20px;
+    margin: 10px;
 
 }
 
@@ -52,8 +52,8 @@ p{
 
 img{
     justify-content: left;
-    margin: 150px;
-    margin-top: 30vh;
+    margin: 75px;
+    margin-top: 20px;
     max-width: 30vw;
 }
 
@@ -81,7 +81,7 @@ a {
  .button:hover {
     background-color: #383838;
     transform: scale(1.1);
-    color: #00CED1
+    color: #afeeee
     
  }
  .button:focus{
@@ -100,4 +100,10 @@ a {
 
  }
  
+ .voorkant{
+    background-color: #1c1c1c;
+    color: #EDEADE;
+    border-radius: 10px;
+
+ }
 
