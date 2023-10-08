@@ -40,6 +40,7 @@ h1 {
 
 }
 
+
 h2{
     text-align: center;
     margin: 25px;
@@ -103,7 +104,14 @@ a {
  .voorkant{
     background-color: #1c1c1c;
     color: #EDEADE;
-    border-radius: 11px
+    border-radius: 10px
 
  }
 
+ footer{
+    background-color: #1c1c1c;
+    color: #EDEADE;
+    border-radius: 10px
+ }
+    
+ 
